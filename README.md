@@ -43,7 +43,9 @@ height="40"/> </a>
 
 
 <h3 align="left">Github Stat's:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gauravgade3&show_icons=true&locale=en&layout=compact" alt="Gauravgade3" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravgade3&show_icons=true&locale=en" alt="Gauravgade3" /></p>
 
