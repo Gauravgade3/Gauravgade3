@@ -15,7 +15,7 @@
 [![Linkedln](https://user-images.githubusercontent.com/62636740/119520093-9a37ed80-bd97-11eb-994d-fa42c1bca57e.png)][2]
 
 [1]: https://github.com/Gauravgade3
-[2]: https://www.linkedin.com/in/gaurav-gade-bba1111b3/
+[2]: https://www.linkedin.com/in/gauravgade3/
 
 
 <h3 align="left">Programming Languages:</h3>
