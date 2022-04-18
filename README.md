@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, NLP, Computer Vision**
 
-- 💬 Ask me about **Python, ML, DL, NLP**
+- 💬 Ask me about **Python, SQL, ML, DL, NLP**
 
 - 📫 How to reach me **gauravgade3@gmail.com**
+
+- Resume https://tinyurl.com/4z9kup7e
 
 <h3 align="left">Connect with me:</h3>
 
