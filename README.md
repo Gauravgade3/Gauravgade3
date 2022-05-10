@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gauravgade3@gmail.com**
 
-- Resume **https://tinyurl.com/4z9kup7e**
+- Resume **https://tinyurl.com/2yf8evb4**
 
 <h3 align="left">Connect with me:</h3>
 
